@@ -25,7 +25,7 @@ Start developing using Remix on browser, visit: https://remix.ethereum.org
 
 * Reveal State
  
-  1. Both players need to reveal their choice by **reveal(string memory _choice, uint _secret)**. 
+  1. Both players need to reveal their choices by **reveal(string memory _choice, uint _secret)**. 
  
       Ex. reveal("rock", 7823221)
     
