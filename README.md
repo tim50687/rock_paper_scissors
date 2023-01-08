@@ -17,7 +17,7 @@ Start developing using Remix on browser, visit: https://remix.ethereum.org
   
 * Registered State
 
-  1. Both Players need to generate sealed Choice by **generateSealedChoice(string memory _choice, uint _secret)** in order to prevent other player from knowing your chioce. 
+  1. Both Players need to generate sealed Choice by **generateSealedChoice(string memory _choice, uint _secret)** in order to prevent other player from knowing their chioces. 
   
       Ex. generateSealedChoice("rock", 7823221)
   
