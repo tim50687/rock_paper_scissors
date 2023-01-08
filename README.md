@@ -1,5 +1,5 @@
 # Rock_Paper_Scissors
-This project is a decentralized betting Rock, Paper and scissors game. Players are able to bet ethereum on their choices and receive the prize without any trusted central intermediary.
+This project is a decentralized betting Rock, Paper and scissors game. Players are able to bet ethereum on their choices and receive the prize based on game result without any trusted central intermediary.
 
 ## Remix IDE
 Remix IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Remix is used for the entire journey of contract development with Solidity language as well as a playground for learning and teaching Ethereum.
