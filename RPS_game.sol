@@ -137,7 +137,7 @@ contract RPSGame {
 
     function withdraw() external onlyAfter(revealEnd) { 
         // If only one player reveal his choice, another player will be regarded as waiver.
-        // The one who reveal their answer can get all prize pool money
+        // The one who reveal his answer can get all prize pool money
         if (revealedChoices.length == 1 && msg.sender == revealedChoices[0].player) {
             uint amount = prizePool;
             prizePool = 0;
