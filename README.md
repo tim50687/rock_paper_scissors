@@ -31,9 +31,9 @@ Start developing using Remix on browser, visit: https://remix.ethereum.org
     
 * After reveal state
 
-  1. Both players can get the result.
+  1. Both players can get the game result.
   
-  2. Only winner can withdraw the prize.
+  2. Only winner can withdraw the prize pool money.
   
   * If the game result is tie, both players can withdraw their money back.
 
